@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    networks:
+      - seguranca-network
+
+  seguranca-publica-api:
+    build: .
+    container_name: seguranca-publica-api
+    ports:
+      - "5008:8080"
+    depends_on:
+      - mongodb
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - seguranca-network
+
+networks:
+  seguranca-network:
+    driver: bridge
