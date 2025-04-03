@@ -37,17 +37,3 @@ jobs:
         run: |
           docker build -t ${{ secrets.DOCKER_USERNAME }}/seguranca-publica-api:latest .
           docker push ${{ secrets.DOCKER_USERNAME }}/seguranca-publica-api:latest
-
-  deploy:
-    needs: build-and-push
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Conectar ao servidor e atualizar o container
-        run: |
-          ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'EOF'
-            docker pull ${{ secrets.DOCKER_USERNAME }}/seguranca-publica-api:latest
-            docker stop seguranca-publica-api || true
-            docker rm seguranca-publica-api || true
-            docker run -d --name seguranca-publica-api -p 5008:8080 --network segurancapublicaapi_seguranca-network ${{ secrets.DOCKER_USERNAME }}/seguranca-publica-api:latest
-          EOF
