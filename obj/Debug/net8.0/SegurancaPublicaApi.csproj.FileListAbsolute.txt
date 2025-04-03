@@ -1,0 +1,120 @@
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.csproj.AssemblyReference.cache
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.AssemblyInfoInputs.cache
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.AssemblyInfo.cs
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.exe
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.deps.json
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.runtimeconfig.json
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.pdb
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.SegurancaPublicaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\scopedcss\bundle\SegurancaPublicaApi.styles.css
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\Seguranc.2E71D744.Up2Date
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\refint\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.pdb
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.genruntimeconfig.cache
+C:\Users\kelvi\Documents\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\ref\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.exe
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.deps.json
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.runtimeconfig.json
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.pdb
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.csproj.AssemblyReference.cache
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.AssemblyInfoInputs.cache
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.AssemblyInfo.cs
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.SegurancaPublicaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\scopedcss\bundle\SegurancaPublicaApi.styles.css
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\Seguranc.2E71D744.Up2Date
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\refint\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.pdb
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.genruntimeconfig.cache
+C:\Users\kelvi\Documents\Faculdade\Atividades FIAP (RETIDO)\Cap 7 - APIs e Integração de Sistemas - Webservice com ASP.NET Core 8\SegurancaPublicaApi\obj\Debug\net8.0\ref\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.exe
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.deps.json
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.runtimeconfig.json
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\SegurancaPublicaApi.pdb
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\DnsClient.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Snappier.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.csproj.AssemblyReference.cache
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.AssemblyInfoInputs.cache
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.AssemblyInfo.cs
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.SegurancaPublicaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SegurancaPublicaApi.props
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\scopedcss\bundle\SegurancaPublicaApi.styles.css
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\Seguranc.2E71D744.Up2Date
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\refint\SegurancaPublicaApi.dll
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.pdb
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\SegurancaPublicaApi.genruntimeconfig.cache
+C:\Users\kelvi\Documents\SegurancaPublicaApi\obj\Debug\net8.0\ref\SegurancaPublicaApi.dll
